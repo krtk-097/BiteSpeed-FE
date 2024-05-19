@@ -29,3 +29,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Deployment
 
 This project is deployed on Vercel. You can view the live application at the following link:
+[https://bite-speed-fe.vercel.app/](https://bite-speed-fe.vercel.app/)
